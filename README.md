@@ -9,13 +9,13 @@ This Python project provides a simple yet powerful tool for analyzing PDF docume
 
 **Key Features:**
 
-Easy Integration: With a few lines of code, you can integrate this functionality into your Python applications or workflows.
+* Easy Integration: With a few lines of code, you can integrate this functionality into your Python applications or workflows.
 
-PDF Expertise: Utilizing the PyMuPDF (MuPDF) library, this project efficiently processes PDF files, making it suitable for a wide range of applications.
+* PDF Expertise: Utilizing the PyMuPDF (MuPDF) library, this project efficiently processes PDF files, making it suitable for a wide range of applications.
 
-Color Page Detection: It accurately identifies color and black & white pages within the PDF document, providing valuable statistics.
+* Color Page Detection: It accurately identifies color and black & white pages within the PDF document, providing valuable statistics.
 
-Use Cases: This code can be employed in various scenarios, such as document archiving, printing optimization, or content analysis.
+* Use Cases: This code can be employed in various scenarios, such as document archiving, printing optimization, or content analysis.
 
 ## ⚙️ Languages or Frameworks Used
  - FastAPI
