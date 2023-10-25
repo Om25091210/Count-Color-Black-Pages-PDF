@@ -2,7 +2,7 @@
 ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-# Firebase Authentication for Flask Application
+# **PDF Page Color Counter**
 
 ## 🛠️ Description
 This Python project provides a simple yet powerful tool for analyzing PDF documents and counting the number of black and color pages. Whether you're working on document analysis, quality control, or just curious about the composition of your PDF files, this code helps you gain insights into the document's visual characteristics.
