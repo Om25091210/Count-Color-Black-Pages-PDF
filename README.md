@@ -34,7 +34,10 @@ This Python project provides a simple yet powerful tool for analyzing PDF docume
    - Activate the virtual enviroment by running this command `source activate`.
    - Move out from virtual env to your **Project Directory** by `cd..` .
    - Install the packages if not present - `uvicorn`, `fastapi`, `fitz`, `frontend`, `tools`, `opencv-python`, `pillow`, `python-multipart`, `PyMuPDF`.
-   - Or just Copy - ```pip install uvicorn,fastapi,fitz,frontend,tools,opencv-python,pillow,python-multipart,PyMuPDF```
+   - Or just Run
+   ```
+   pip install uvicorn,fastapi,fitz,frontend,tools,opencv-python,pillow,python-multipart,PyMuPDF
+   ```
 
 - ###  Now Just, Run the project
    
