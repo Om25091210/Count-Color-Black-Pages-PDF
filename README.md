@@ -2,13 +2,13 @@
 ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-# **PDF Page Color Counter**
+# PDF Page Color Counter
 
 ## 🛠️ Description
 This Python project provides a simple yet powerful tool for analyzing PDF documents and counting the number of black and color pages. Whether you're working on document analysis, quality control, or just curious about the composition of your PDF files, this code helps you gain insights into the document's visual characteristics.
 
 **Key Features:**
-```
+
 Easy Integration: With a few lines of code, you can integrate this functionality into your Python applications or workflows.
 
 PDF Expertise: Utilizing the PyMuPDF (MuPDF) library, this project efficiently processes PDF files, making it suitable for a wide range of applications.
@@ -16,7 +16,6 @@ PDF Expertise: Utilizing the PyMuPDF (MuPDF) library, this project efficiently p
 Color Page Detection: It accurately identifies color and black & white pages within the PDF document, providing valuable statistics.
 
 Use Cases: This code can be employed in various scenarios, such as document archiving, printing optimization, or content analysis.
-```
 
 ## ⚙️ Languages or Frameworks Used
  - FastAPI
