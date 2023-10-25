@@ -42,14 +42,16 @@ This Python project provides a simple yet powerful tool for analyzing PDF docume
    
    -Now Run the following command - `uvicorn main:app --reload`.
    -Open the localhost link on your browser and put `/docs` at your endpoint to see the fastapi docs UI.
+   ![Screenshot 2023-10-25 134746](https://github.com/Om25091210/Count-Color-Black-Pages-PDF/assets/74484315/2b5b64a2-1c00-4a5a-ab7c-99fb30e7aba6)
+
    -Now, Click on **POST** and then **Try it out**.
    -Click on **Choose file** to select a pdf, which you want to count the number of black and color pages.
    -Click on **Execute**.
 
 
 ## 📺 Demo
-![image](https://github.com/MBSA-INFINITY/MBSA-Forms/assets/85332648/2200ef81-57de-4619-ba33-4bed2cf31780)
-![image](https://github.com/MBSA-INFINITY/MBSA-Forms/assets/85332648/ad83c91d-e140-4f4b-9b30-81b4903f1011)
+![Screenshot 2023-10-25 133406](https://github.com/Om25091210/Count-Color-Black-Pages-PDF/assets/74484315/a84def7c-7db4-4ab5-bf0b-f8cfe5ded66b)
+
 
 ## 🤖 Author
 
