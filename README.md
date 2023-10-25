@@ -55,8 +55,8 @@ This Python project provides a simple yet powerful tool for analyzing PDF docume
 
 ## 🤖 Author
 
-Github - [MBSA-INFINITY](https://github.com/Om25091210)
-LinkedIn - [MBSAIADITYA](www.linkedin.com/in/omyadav)
+Github - [OM YADAV](https://github.com/Om25091210)
+LinkedIn - [OM YADAV](www.linkedin.com/in/omyadav)
 
 
 
