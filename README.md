@@ -18,7 +18,11 @@ This Python project provides a simple yet powerful tool for analyzing PDF docume
 * Use Cases: This code can be employed in various scenarios, such as document archiving, printing optimization, or content analysis.
 
 ## ⚙️ Languages or Frameworks Used
- - FastAPI
+- **Python**: The primary programming language used for the project.
+- **FastAPI**: A modern, fast (high-performance) web framework for building APIs with Python.
+- **PyMuPDF (MuPDF)**: A lightweight and efficient PDF processing library for Python.
+- **OpenCV**: Used for image analysis and processing.
+- **Pillow (PIL)**: Python Imaging Library for working with images.
 
 ## 🌟 How to run
  - ### Install all the requirements
@@ -27,8 +31,8 @@ This Python project provides a simple yet powerful tool for analyzing PDF docume
 
    - Run this command in your terminal `python -m venv myenv`.
    - Change your directory by `cd myenv/Scripts` if on windows.
-   - Navigate to your **Project Directory** by `cd..` .
    - Activate the virtual enviroment by running this command `source activate`.
+   - Move out from virtual env to your **Project Directory** by `cd..` .
    - Install the packages if not present - uvicorn, fastapi, fitz, frontend, tools, opencv-python, pillow, python-multipart, PyMuPDF.
 
 - ###  Now Just, Run the project
